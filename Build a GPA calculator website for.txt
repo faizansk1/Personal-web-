@@ -1,0 +1,13 @@
+Build a GPA calculator website for students that is fast, mobile-friendly, and easy to use. The site should allow users to calculate semester and cumulative GPA by entering their grades.
+
+The website must be SEO-optimized to attract organic traffic and designed for Google AdSense compliance, including essential pages: Privacy Policy, Terms & Conditions, About, and a simple contact form (no personal info required).
+
+Additional requirements:
+
+Clean, modern, student-focused design
+
+Accurate, instant GPA calculations
+
+Educational content or guides to help students understand GPA
+
+The goal is to create a trusted academic tool that provides value to students while generating traffic and AdSense revenue.
